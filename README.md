@@ -4,6 +4,10 @@ An intelligent Streamlit-based web app that uses Google Gemini 1.5 Pro Vision to
 
 ---
 
+Demo: https://invoiceextractor-gemini-pro-e92qtwzqmwabkghstikutf.streamlit.app/
+
+---
+
 ## 🚀 Features
 
 - 🖼️ Upload invoice images (JPG, JPEG, PNG)
